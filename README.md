@@ -1,4 +1,4 @@
-# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# 🍔Foodybite [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/Solido/awesome-flutter"><img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" /></a>
 
 Flutter representation of a Restaurant app UI i found in Uplabs. 
 **It only consists of 2 screens.**
@@ -30,6 +30,13 @@ Star⭐ the repo if you like what you see😉.
 ## 🤓 Author(s)
 **Olusegun Festus Babajide**
 
+## ☕️  Donate
+
+Buy me a cup of Coffee😁
+
+| Mode | Link/Wallet|
+| ------| ------------|
+| Bitcoin | 3GrziPW6Gz6S5mXo2EsiYpafW8vXVq5Rbv|
 
 ## Getting Started
 
